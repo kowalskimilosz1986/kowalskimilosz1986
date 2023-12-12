@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miłosz
 - 👀 I’m interested in everthing connected to bicycles :) 
-- 🌱 I’m currently learning Html, CSS, JS, Bootstrap, Scrum and Agile 
+- 🌱 I’m currently learning Html, CSS, JS and Scrum
 - 💞️ I’m looking to collaborate on with someone with whom I can grow my codeing skills. 
 - 📫 email me kowalskimilosz1986@gmail.com oraz milosz.kowalski@openmind.net.pl 
 
